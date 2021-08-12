@@ -1,4 +1,4 @@
-### Hi there, I'm Thyago Oliveira 👋
+## Hi there, I'm Thyago Oliveira 👋
 
 <!--
 **ThyagOliveira/ThyagOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact with me 📝
-</br>
+## 📝 Contact with me 
 
 <div>
   <a href="https://www.linkedin.com/in/thyagoliveira/">
-    <img alt="linkedin" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"  />
+    <img alt="linkedin" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg" />
   </a>
 </div>
 
 ##
+
+## <img width="30px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" /> Some Statistics
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagOliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
