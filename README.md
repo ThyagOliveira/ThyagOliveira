@@ -46,10 +46,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
 </div>
 
-<!--
-#### Visitors
+
+## Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/{ThyagOliveira}/count.svg)
--->
+
 
 ![Snake animation](https://github.com/ThyagOliveira/ThyagOliveira/blob/output/github-contribution-grid-snake.svg)
