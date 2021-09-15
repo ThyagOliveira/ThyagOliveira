@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## 📝 Contact with me 
 
 <div>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img alt="linkedin" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg" />
   </a>
 </div>
-
+-->
 
 ## <img width="30px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" /> Some Statistics
 
